@@ -1,4 +1,4 @@
-# Direct Linear Transformation (DLT) - Photogrammetry II Project
+# Direct Linear Transformation (DLT) - Photogrammetry III (Analytical Photogrammetry) Project
 
 This repository contains a graphical user interface (GUI) application developed for the **Photogrammetry III** course at the **University of Isfahan**. The project, completed during my undergraduate studies in **Geomatics Engineering**, was designed for educational purposes to demonstrate the use of **Direct Linear Transformation (DLT)** in photogrammetry in Fall 2018.
 
